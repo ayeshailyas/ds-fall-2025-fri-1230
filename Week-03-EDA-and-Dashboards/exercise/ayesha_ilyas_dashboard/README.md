@@ -1,6 +1,6 @@
 # Movie Ratings Data Dashboard
 
-**Live Link:** [Dashboard]()
+**Live Link:** [Dashboard](https://movie-ratings-dash.streamlit.app/)
 
 The goal of this dashboard is to answer the following four questions:
 
