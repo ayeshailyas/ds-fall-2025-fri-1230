@@ -75,7 +75,7 @@ st.set_page_config(
 
 st.title("Movie Ratings Data")
 
-df = pd.read_csv("data/cleaned_movie_ratings.csv") 
+df = pd.read_csv("Week-03-EDA-and-Dashboards/exercise/ayesha_ilyas_dashboard/data/cleaned_movie_ratings.csv") 
 
 columns = st.columns(spec=[.5, .5], gap="medium")
 
